@@ -1,0 +1,2 @@
+# lmp
+lightning mini-peer
